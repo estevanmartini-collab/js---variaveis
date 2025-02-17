@@ -36,3 +36,4 @@ preco = Number(preco);
 calcularImposto(100, true);
 calcularImposto("200", false); 
 calcularImposto("", true); 
+
